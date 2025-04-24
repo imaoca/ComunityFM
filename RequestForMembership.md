@@ -4,3 +4,5 @@
 設立申請のためには最低10名の正会員が必要です。
 是非入会して頂きたい次第です。
 以下本法人の定款のリンクですのでご参照ください。
+
+https://github.com/imaoca/ComunityFM/blob/main/teikan.md
